@@ -29,6 +29,11 @@
     "js"
   ],
   "author": "Vidal DLS <dev.dominican@gmail.com>",
+  "homepage": "https://github.com/DominicanDev/my-dates",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DominicanDev/my-dates"
+  },
   "license": "MIT",
   "devDependencies": {
     "nodemon": "2.0.22"

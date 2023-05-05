@@ -1,0 +1,36 @@
+{
+  "name": "my-dates",
+  "version": "1.0.0",
+  "description": "A simple js library to manipulate dates",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "dates",
+    "date",
+    "time",
+    "datetime",
+    "timezone",
+    "years",
+    "year",
+    "months",
+    "month",
+    "weeks",
+    "week",
+    "hours",
+    "hour",
+    "minutes",
+    "minute",
+    "seconds",
+    "second",
+    "js"
+  ],
+  "author": "Vidal DLS <dev.dominican@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "2.0.22"
+  }
+}
